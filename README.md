@@ -116,7 +116,7 @@ class FaisalShahzad {
 
 <div align="center">
 
-[![AI Chat App](https://github-readme-stats.vercel.app/api/pin/?username=Mitsuifaisalss&repo=ai-chat-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=FF6B9D)](https://github.com/Mitsuifaisalss/ai-chat-app)
+[![AI Chat App](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mitsuifaisalss&repo=ai-chat-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=FF6B9D)](https://github.com/Mitsuifaisalss/ai-chat-app)
 
 </div>
 
@@ -165,7 +165,7 @@ class FaisalShahzad {
 ## 🥧 Time Spent On
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitsuifaisalss&layout=pie&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_radius=15&langs_count=8" width="45%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mitsuifaisalss&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_radius=15&langs_count=8&card_width=320" width="40%" />
 </div>
 
 <!-- Animated Divider -->
@@ -174,8 +174,8 @@ class FaisalShahzad {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mitsuifaisalss&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF6B9D&text_color=C9D1D9&border_radius=15&card_width=495&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitsuifaisalss&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_radius=15&card_width=280&langs_count=6" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mitsuifaisalss&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF6B9D&text_color=C9D1D9&border_radius=15&card_width=495&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mitsuifaisalss&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_radius=15&card_width=280&langs_count=6" height="180" />
 </div>
 
 <div align="center">
