@@ -162,6 +162,27 @@ class FaisalShahzad {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🥧 Time Spent On
+
+<div align="center">
+
+```text
+🤖 AI & LLM Development    ████████████░░░░░░░░░   45.2%
+🌐 Full-Stack Web Dev      ██████████░░░░░░░░░░░   30.1%
+🔍 Web Scraping & Data     ████░░░░░░░░░░░░░░░░░   12.5%
+📚 Research & Learning     ███░░░░░░░░░░░░░░░░░░    8.3%
+☕ Coffee & Debugging       █░░░░░░░░░░░░░░░░░░░░    3.9%
+```
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitsuifaisalss&layout=pie&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_radius=15&langs_count=8" width="40%" />
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 📊 GitHub Analytics
 
 <div align="center">
