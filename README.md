@@ -162,20 +162,11 @@ class FaisalShahzad {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🥧 Time Spent On
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mitsuifaisalss&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_radius=15&langs_count=8&card_width=400" height="320" />
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mitsuifaisalss&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF6B9D&text_color=C9D1D9&border_radius=15&card_width=495&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mitsuifaisalss&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_radius=15&card_width=280&langs_count=6" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mitsuifaisalss&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF6B9D&text_color=C9D1D9&border_radius=15&card_width=495&rank_icon=github" height="200" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mitsuifaisalss&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_radius=15&langs_count=8&card_width=380" height="200" />
 </div>
 
 <div align="center">
